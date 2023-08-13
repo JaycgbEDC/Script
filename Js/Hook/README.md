@@ -1,7 +1,7 @@
 # Hook in crawling
 
-|        Feature        | done |
-| :-------------------: | :--: |
+| Feature               | done |
+| :-------------------- | :--: |
 | Hook FunctionDebugger |  ✅  |
-|      Hook Cookie      |  ✅  |
-|   Hook setInterval   |  ✅  |
+| Hook Cookie           |  ✅  |
+| Hook setInterval      |  ✅  |

@@ -14,7 +14,7 @@
 // @grant        GM_getValue
 // @run-at       document-start
 // ==/UserScript==
-content-script-start.js
+
 (function () {
     'use strict';
     debugger;
