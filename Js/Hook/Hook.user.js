@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  hook function in crawling
 // @author       Kribe
-// @homepage     https://github.com/JaycgbEDC/Script/tree/main/Js
+// @homepage     https://github.com/JaycgbEDC/Script/blob/main/Js/Hook/Hook.user.js
 // @supportURL   https://github.com/JaycgbEDC/Script/issues
 // @match        *://*/*
 // @icon         https://s1.imagehub.cc/images/2023/08/12/default.th.jpeg
