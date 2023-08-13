@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Hook
 // @namespace    https://github.com/JaycgbEDC/Script/Js
-// @version      0.1
+// @version      0.2
+// @license      Unlicense
 // @description  hook function in crawling
 // @author       Kribe
 // @homepage     https://github.com/JaycgbEDC/Script/blob/main/Js/Hook/Hook.user.js
@@ -17,7 +18,7 @@
 
 (function () {
     'use strict';
-    debugger;
+    
     const hookFunctionDebugger = () => {
         Function.prototype.constructor_ = Function.prototype.constructor;
         Function.prototype.constructor = function (a) {
