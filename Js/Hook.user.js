@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  hook function in crawling
 // @author       Kribe
-// @homepage     https://github.com/JaycgbEDC/Script/Js
-// @supportURL   https://github.com/JaycgbEDC/Script/Js/issues
+// @homepage     https://github.com/JaycgbEDC/Script/tree/main/Js
+// @supportURL   https://github.com/JaycgbEDC/Script/issues
 // @match        *://*/*
 // @icon         https://s1.imagehub.cc/images/2023/08/12/default.th.jpeg
 // @grant        GM_registerMenuCommand
